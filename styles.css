@@ -554,7 +554,7 @@ ul.footer-links li:hover {
 	.icon {
 		position: fixed;
 		right: 20px;
-		z-index: 3;
+		z-index: 24;
 	}
 
 	.icon i {
